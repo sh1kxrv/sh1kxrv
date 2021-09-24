@@ -1,6 +1,6 @@
 # 0xAF
 
-- 🌱 I like web-programming ( JS ( VueJS, NuxtJS ), HTML, CSS )
+- 🌱 I like web-programming ( JS ( Vue, Nuxt ), HTML, CSS )
   - vue.js  -> vue-router, vuex, vuetify, vue-bootstrap
   - CSS     -> materialize, bootstrap | SCSS
   - Backend: Golang ( + gin or only mux for routing)
