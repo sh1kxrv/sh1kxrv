@@ -8,3 +8,4 @@
   - WPF (MVVM), WF, Console App.
 - ☄️ Favorite languages: JS, C#, Golang
 - 🪐 I plan to study: continue exploration frontend and backend
+- Summary: https://github.com/xafxafxaf/xaf-summary
