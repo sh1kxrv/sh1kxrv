@@ -84,7 +84,7 @@
 ## Проекты <span id="projects"></span>
 - [Интернет-магазин одежды ( Mobile )](https://cult-brand.ru)
 - [CRM-система ( Desktop )](https://easyus.app)
-  - Behance: https://www.behance.net/gallery/131650661/EasyUs-CRM-System-UXUI
+  - [Behance](https://www.behance.net/gallery/131650661/EasyUs-CRM-System-UXUI)
 - [Лендинг ( Desktop & Mobile )](https://rlt.agency)
 - [Интернет-магазин мансардных окон](https://shopsf.ru/)
 
