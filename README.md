@@ -1,4 +1,4 @@
-![Vue3](https://img.shields.io/badge/-Vue-green)
+![Vue3](https://img.shields.io/badge/-Vue3-green)
 ![CompositionAPI](https://img.shields.io/badge/-Composition%20API-blue)
 <br/>
 ![Nuxt](https://img.shields.io/badge/-Nuxt-green)
