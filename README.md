@@ -40,4 +40,5 @@
 - [Интернет-магазин мансардных окон](https://shopsf.ru/)
 
 ## Контакты <span id="contacts"></span>
-- Telegram: https://t.me/undeeefinedd
+- [Telegram](https://t.me/undeeefinedd)
+- [Boosty](https://boosty.to/xaf)
