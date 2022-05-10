@@ -28,6 +28,10 @@
     - Options API
   - Nuxt (v2)
 
+## Packages
+- [xaf-bottom-sheet](https://www.npmjs.com/package/xaf-bottom-sheet) - bottom-sheet modal (vue3 realization)
+- [xaf-virtual-routes](https://www.npmjs.com/package/xaf-virtual-routes) - back-button like ionic (WIP)
+
 ## Проекты <span id="projects"></span>
 - [Интернет-магазин одежды ( Mobile )](https://cult-brand.ru)
 - [CRM-система ( Desktop )](https://easyus.app)
