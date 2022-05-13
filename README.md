@@ -41,4 +41,3 @@
 
 ## Контакты <span id="contacts"></span>
 - [Telegram](https://t.me/undeeefinedd)
-- [Boosty](https://boosty.to/xaf)
