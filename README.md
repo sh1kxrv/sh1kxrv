@@ -30,7 +30,7 @@
 
 ## Знаком со следующими языками
 - C#, Java, C++, C
-- JavaScript, TypeScript, Python, GoLang
+- JavaScript, TypeScript, Python, GoLang, Lua
 - DM (https://www.byond.com/docs/guide/)
 
 ## Packages
