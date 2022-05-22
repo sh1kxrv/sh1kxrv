@@ -28,6 +28,11 @@
     - Options API
   - Nuxt (v2)
 
+## Знаком со следующими языками
+- C#, Java, C++, C
+- JavaScript, TypeScript, Python, GoLang
+- DM (https://www.byond.com/docs/guide/)
+
 ## Packages
 - [xaf-bottom-sheet](https://www.npmjs.com/package/xaf-bottom-sheet) - bottom-sheet modal (vue3 realization)
 - [xaf-virtual-routes](https://www.npmjs.com/package/xaf-virtual-routes) - back-button like ionic (WIP)
