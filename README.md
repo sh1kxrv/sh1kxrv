@@ -27,10 +27,12 @@
     - Composition API ( Primary )
     - Options API
   - Nuxt (v2)
+- Dev (Backend)
+  - ASP.NET Core v6 + EF Core
 
-## Знаком со следующими языками
-- C#, Java, C++, C
-- JavaScript, TypeScript, Python, GoLang, Lua
+Языки:
+- C# (основной), Java, C++, C
+- JavaScript (основной), TypeScript (основной), Python, GoLang, Lua
 - DM (https://www.byond.com/docs/guide/)
 
 ## Packages
