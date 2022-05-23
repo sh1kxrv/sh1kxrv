@@ -29,6 +29,7 @@
   - Nuxt (v2)
 - Dev (Backend)
   - ASP.NET Core v6 + EF Core
+  - Express / Fastify
 
 Языки:
 - C# (основной), Java, C++, C
