@@ -28,8 +28,9 @@
     - Options API
   - Nuxt (v2)
 - Dev (Backend)
-  - ASP.NET Core v6 + EF Core
+  - ASP.NET Core v6 (MVC) + EF Core
   - Express / Fastify
+  - Auth - JWT
 
 Языки:
 - C# (основной), Java, C++, C
