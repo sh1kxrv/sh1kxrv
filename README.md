@@ -20,9 +20,9 @@
 - Dev (Frontend - CSR/SSR)
   - Vue (v2/v3)
     - Vue-router
-    - Vuex
+    - Vuex / Pinia
     - Vue-loader
-    - Vue-testing-library ( Jest )
+    - Vue-testing-library ( Jest, + Jest Image Snapshot )
   - Vue-API's
     - Composition API ( Primary )
     - Options API
