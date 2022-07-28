@@ -53,3 +53,6 @@
 
 ## Контакты <span id="contacts"></span>
 - [Telegram](https://t.me/undeeefinedd)
+
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xafxafxaf&count_private=true&custom_title=xafxafxaf%20|%20Stats&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
