@@ -21,7 +21,7 @@
 ## Tech Stack <span id="stack"></span>
 
 - Dev (Frontend - CSR/SSR)
-  - Vue (v2/v3)
+  - Vue (v2/only v3 now)
     - Vue-router
     - Vuex / Pinia
     - Vue-loader
