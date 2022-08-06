@@ -56,4 +56,4 @@
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xafxafxaf&count_private=true&custom_title=xafxafxaf%20|%20Stats&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xafxafxaf&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xafxafxaf&layout=compact&theme=vue-dark&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
