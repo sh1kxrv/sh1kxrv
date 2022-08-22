@@ -55,5 +55,7 @@
 - [Telegram](https://t.me/undeeefinedd)
 
 ## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=xafxafxaf&count_private=true&custom_title=xafxafxaf%20|%20Stats&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xafxafxaf&layout=compact&theme=github_dark&cache_seconds=8000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=xafxafxaf&count_private=true&custom_title=xafxafxaf%20|%20Stats&theme=github_dark&show_icons=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=xafxafxaf&layout=compact&theme=github_dark&hide_border=true&hide=C%23&langs_count=7" />
+</div>
