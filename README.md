@@ -11,7 +11,7 @@
 ![Electron](https://img.shields.io/badge/-Electron-white)
 # Содержание
 
-1. [Мой стэк](#stack)
+1. [Stack](#stack)
 2. [Проекты, в разработке которых я принимал участие](#projects)
 3. [Мои контакты](#contacts)
 
@@ -27,7 +27,7 @@
     - Vue-loader
     - Vue-testing-library ( Jest, + Jest Image Snapshot )
   - Vue-API's
-    - Composition API ( Primary )
+    - Composition API ( **primary** )
     - Options API
   - Nuxt (v2)
 - Dev (Backend)
@@ -41,8 +41,9 @@
 - DM (https://www.byond.com/docs/guide/)
 
 ## Packages
-- [xaf-bottom-sheet](https://www.npmjs.com/package/xaf-bottom-sheet) - bottom-sheet modal (vue3 realization)
+- [xaf-bottom-sheet](https://www.npmjs.com/package/xaf-bottom-sheet) - bottom-sheet modal (only vue3)
 - [xaf-virtual-routes](https://www.npmjs.com/package/xaf-virtual-routes) - back-button like ionic (WIP)
+- [xaf-crate-reborn](https://www.npmjs.com/package/xaf-crate-reborn) - templates cli
 
 ## Проекты <span id="projects"></span>
 - [Интернет-магазин одежды ( Mobile )](https://cult-brand.ru)
