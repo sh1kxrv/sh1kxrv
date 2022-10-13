@@ -53,7 +53,7 @@
 - [Интернет-магазин мансардных окон](https://shopsf.ru/)
 
 ## Контакты <span id="contacts"></span>
-- [Telegram](https://t.me/undeeefinedd)
+- [Telegram](https://t.me/xafxafxaf)
 
 ## Stats
 <div align="center">
