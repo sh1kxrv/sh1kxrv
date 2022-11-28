@@ -27,12 +27,12 @@
     - Vue-loader
     - Vue-testing-library ( Jest, + Jest Image Snapshot )
   - Vue-API's
-    - Composition API ( **primary** )
+    - Composition API (**primary**)
     - Options API
   - Nuxt (v2)
 - Dev (Backend)
   - ASP.NET Core v6 (MVC) + EF Core
-  - Express / Fastify
+  - Express / Fastify / Nestjs (**primary**)
   - Auth - JWT
 
 Языки, которые когда-либо использовал:
