@@ -33,7 +33,6 @@
 - Dev (Backend)
   - ASP.NET Core v6 (MVC) + EF Core
   - Express / Fastify / Nestjs (**primary**)
-  - Auth - JWT
 
 Языки, которые когда-либо использовал:
 - C# (основной), Java, C++, C, Rust
