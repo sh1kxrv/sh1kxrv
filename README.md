@@ -1,7 +1,10 @@
 ![Vue3](https://img.shields.io/badge/-Vue3-green)
 ![CompositionAPI](https://img.shields.io/badge/-Composition%20API-blue)
 ![Pinia](https://img.shields.io/badge/-Pinia-orange)
-![Pinia](https://img.shields.io/badge/-Vuex-orange)
+![Vuex](https://img.shields.io/badge/-Vuex-orange)
+<br/>
+![Nuxt3](https://img.shields.io/badge/-Nuxt3-green)
+![CompositionAPI](https://img.shields.io/badge/-Composition%20API-blue)
 <br/>
 ![Capacitor](https://img.shields.io/badge/-Capacitor-white)
 ![Electron](https://img.shields.io/badge/-Electron-white)
