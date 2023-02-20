@@ -56,6 +56,11 @@
 ## Контакты <span id="contacts"></span>
 - [Telegram](https://t.me/xafxafxaf)
 
+## VSCode profile's
+- [\_GLobal](https://vscode.dev/profile/github/cbfa36ca524411a695dca1c3d45d0f39)
+- [Vue3 | Volar Based](https://gist.github.com/xafxafxaf/2ada826226d6f5100e48bc092e9021f0)
+- [NodeJS](https://vscode.dev/profile/github/62d717c1b71761e06f06fb1499a7b685)
+
 ## Stats
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=xafxafxaf&count_private=true&custom_title=xafxafxaf%20|%20Stats&theme=github_dark&show_icons=true&hide_border=true" />
