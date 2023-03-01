@@ -38,7 +38,7 @@
 
 Языки, которые когда-либо использовал:
 - C# (основной), Java, C++, C, Rust
-- JavaScript (основной), TypeScript (основной), Python, GoLang, Lua
+- JavaScript (основной), TypeScript (основной), Python, Go, Lua
 - DM (https://www.byond.com/docs/guide/)
 
 ## Packages
