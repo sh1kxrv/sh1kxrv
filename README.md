@@ -15,8 +15,8 @@
 2. [Проекты, в разработке которых я принимал участие](#projects)
 3. [Мои контакты](#contacts)
 
-- Привет! Меня зовут Егор, мне 19
-- Опыт коммерческой разработки: ~2 года
+- Привет! Меня зовут Егор, мне 20
+- Опыт коммерческой разработки: ~3 года
 
 ## Tech Stack <span id="stack"></span>
 
@@ -26,6 +26,7 @@
     - Vuex / Pinia
     - Vue-loader
     - Vue-testing-library ( Jest, + Jest Image Snapshot )
+    - XFCR Structure ( [xaf-crate-reborn](https://www.npmjs.com/package/xaf-crate-reborn) )
   - Vue-API's
     - Composition API (**primary**)
     - Options API
