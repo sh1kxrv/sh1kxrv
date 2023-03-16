@@ -52,9 +52,11 @@
   - [Behance](https://www.behance.net/gallery/131650661/EasyUs-CRM-System-UXUI)
 - [Лендинг ( Desktop & Mobile )](https://rlt.agency)
 - [Интернет-магазин мансардных окон](https://shopsf.ru/)
-- [Undeads](https://undeads.com)
-- [Roobinium](https://roobinium.ca)
 - [Shopsf](https://shopsf.ru/)
+
+## Проекты Web3
+- [Undeads](https://undeads.com) -> Tech Lead
+- [Roobinium](https://roobinium.ca) -> Middle Part-Time
 
 ## Контакты <span id="contacts"></span>
 - [Telegram](https://t.me/xafxafxaf)
