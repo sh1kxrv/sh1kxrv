@@ -17,7 +17,7 @@
 
 - Привет! Меня зовут Егор, мне 20
 - Опыт коммерческой разработки: ~3 года
-- Position: Middle/Middle+
+- Position: `Middle`/`Middle+`
 
 ## Tech Stack <span id="stack"></span>
 
