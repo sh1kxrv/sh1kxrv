@@ -35,7 +35,9 @@
 - Dev (Backend)
   - ASP.NET Core v6 (MVC) + EF Core
   - Express / Fastify / Nestjs (**primary**)
-  - Fiber
+  - Fiber + GORM
+- Docker
+  - docker-compose
 
 Языки, которые когда-либо использовал:
 - C# (основной), Java, C++, C, Rust
