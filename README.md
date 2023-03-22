@@ -54,8 +54,6 @@
 - [CRM-система ( Desktop )](https://easyus.app)
   - [Behance](https://www.behance.net/gallery/131650661/EasyUs-CRM-System-UXUI)
 - [Лендинг ( Desktop & Mobile )](https://rlt.agency)
-- [Интернет-магазин мансардных окон](https://shopsf.ru/)
-- [Shopsf](https://shopsf.ru/)
 
 ## Проекты Web3
 - [Undeads](https://undeads.com) -> Tech Lead
