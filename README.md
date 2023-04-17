@@ -24,14 +24,13 @@
 - Dev (Frontend - CSR/SSR)
   - Vue (v2/only v3 now)
     - Vue-router
-    - Vuex / Pinia
-    - Vue-loader
-    - Vue-testing-library ( Jest, + Jest Image Snapshot )
+    - Pinia
+    - Vue-testing-library ( Jest, + Jest Image Snapshot, Vitest )
     - XFCR Structure ( [xaf-crate-reborn](https://www.npmjs.com/package/xaf-crate-reborn) )
   - Vue-API's
     - Composition API (**primary**)
     - Options API
-  - Nuxt (v2)
+  - Nuxt (v2/v3) (v3)
 - Dev (Backend)
   - ASP.NET Core v6 (MVC) + EF Core
   - Express / Fastify / Nestjs (**primary**)
@@ -42,11 +41,9 @@
 Языки, которые когда-либо использовал:
 - C# (основной), Java, C++, C, Rust
 - JavaScript (основной), TypeScript (основной), Python, Go, Lua
-- DM (https://www.byond.com/docs/guide/)
 
 ## Packages
 - [xaf-bottom-sheet](https://www.npmjs.com/package/xaf-bottom-sheet) - bottom-sheet modal (only vue3)
-- [xaf-virtual-routes](https://www.npmjs.com/package/xaf-virtual-routes) - back-button like ionic (WIP)
 - [xaf-crate-reborn](https://www.npmjs.com/package/xaf-crate-reborn) - templates cli
 
 ## Проекты <span id="projects"></span>
