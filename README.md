@@ -33,14 +33,17 @@
   - Nuxt (v2/v3) (v3)
 - Dev (Backend)
   - ASP.NET Core v6 (MVC) + EF Core
-  - Express / Fastify / Nestjs (**primary**)
-  - Fiber + GORM
+  - Express / Fastify / Nestjs
+  - Fiber + GORM (основной)
 - Docker
   - docker-compose
 
-Языки, которые когда-либо использовал:
-- C# (основной), Java, C++, C, Rust
-- JavaScript (основной), TypeScript (основной), Python, Go, Lua
+Языки, на которых свободно пишу:
+- C# (основной), Golang || Golang (WASM)
+- JavaScript (основной), TypeScript (основной)
+
+Языки, которые использовал:
+- Rust, Lua, C++, C
 
 ## Packages
 - [xaf-bottom-sheet](https://www.npmjs.com/package/xaf-bottom-sheet) - bottom-sheet modal (only vue3)
