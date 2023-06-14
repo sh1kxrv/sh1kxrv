@@ -67,9 +67,3 @@
 - [Vue3 | Volar Based](https://vscode.dev/profile/github/4061670a154f5f3e9babfa88171932ef) 
 - [NodeJS](https://vscode.dev/profile/github/62d717c1b71761e06f06fb1499a7b685)
 - [Golang](https://gist.github.com/xafxafxaf/a58c0f3b19c059e26ca8b8078932323d)
-
-## Stats
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=xafxafxaf&count_private=true&custom_title=xafxafxaf%20|%20Stats&theme=github_dark&show_icons=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=xafxafxaf&layout=compact&theme=github_dark&hide_border=true&hide=C%23,python&langs_count=7" />
-</div>
