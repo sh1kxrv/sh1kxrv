@@ -56,7 +56,7 @@
 - [Лендинг ( Desktop & Mobile )](https://rlt.agency)
 
 ## Контакты <span id="contacts"></span>
-- [Telegram](https://t.me/xafxafxaf)
+- [Telegram](https://t.me/xaffffffff)
 
 ## VSCode profile's
 - [\_GLobal](https://vscode.dev/profile/github/cbfa36ca524411a695dca1c3d45d0f39)
