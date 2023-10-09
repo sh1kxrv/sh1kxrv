@@ -54,6 +54,8 @@
 - [CRM-система ( Desktop )](https://easyus.app)
   - [Behance](https://www.behance.net/gallery/131650661/EasyUs-CRM-System-UXUI)
 - [Лендинг ( Desktop & Mobile )](https://rlt.agency)
+- [Undeads | Web3](https://undeads.com/ru)
+- [Roobinium.ca | Web3 Design](https://roobinium.ca/)
 
 ## Контакты <span id="contacts"></span>
 - [Telegram](https://t.me/xaffffffff)
