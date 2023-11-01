@@ -57,9 +57,6 @@
 - [Undeads | Web3](https://undeads.com/ru)
 - [Roobinium.ca | Web3 Design](https://roobinium.ca/)
 
-## Контакты <span id="contacts"></span>
-- [Telegram](https://t.me/xaffffffff)
-
 ## VSCode profile's
 - [\_GLobal](https://vscode.dev/profile/github/cbfa36ca524411a695dca1c3d45d0f39)
 - [Vue3 | Volar Based](https://vscode.dev/profile/github/4061670a154f5f3e9babfa88171932ef) 
