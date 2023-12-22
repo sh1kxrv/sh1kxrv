@@ -38,11 +38,11 @@
   - docker-compose
 
 Языки, на которых свободно пишу:
-- C# (основной), Golang || Golang (WASM)
-- JavaScript (основной), TypeScript (основной)
+- C#
+- JavaScript, TypeScript
 
 Языки, которые использовал:
-- Rust, Lua, C++, C
+- C#, Rust, Go
 
 ## Проекты <span id="projects"></span>
 - [Интернет-магазин одежды ( Mobile )](https://cult-brand.ru)
