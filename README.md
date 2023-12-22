@@ -44,10 +44,6 @@
 Языки, которые использовал:
 - Rust, Lua, C++, C
 
-## Packages
-- [xaf-bottom-sheet](https://www.npmjs.com/package/xaf-bottom-sheet) - bottom-sheet modal (only vue3)
-- [xaf-crate-reborn](https://www.npmjs.com/package/xaf-crate-reborn) - templates cli
-
 ## Проекты <span id="projects"></span>
 - [Интернет-магазин одежды ( Mobile )](https://cult-brand.ru)
 - [CRM-система ( Desktop )](https://easyus.app)
@@ -55,6 +51,7 @@
 - [Лендинг ( Desktop & Mobile )](https://rlt.agency)
 - [Undeads | Web3](https://undeads.com/ru)
 - [Roobinium.ca | Web3 Design](https://roobinium.ca/)
+- [Legion Music | Music Label](https://legion-music.ru/)
 
 ## VSCode profile's
 - [\_GLobal](https://vscode.dev/profile/github/cbfa36ca524411a695dca1c3d45d0f39)
