@@ -44,6 +44,9 @@
 Языки, которые использовал:
 - C#, Rust, Go
 
+VS Code профили:
+- [Vue3 TS/JS](./Vue3Profile.code-profile)
+
 ## Проекты <span id="projects"></span>
 - [Интернет-магазин одежды ( Mobile )](https://cult-brand.ru)
 - [CRM-система ( Desktop )](https://easyus.app)
