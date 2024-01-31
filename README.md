@@ -55,9 +55,3 @@ VS Code профили:
 - [Undeads | Web3](https://undeads.com/ru)
 - [Roobinium.ca | Web3 Design](https://roobinium.ca/)
 - [Legion Music | Music Label](https://legion-music.ru/)
-
-## VSCode profile's
-- [\_GLobal](https://vscode.dev/profile/github/cbfa36ca524411a695dca1c3d45d0f39)
-- [Vue3 | Volar Based](https://vscode.dev/profile/github/4061670a154f5f3e9babfa88171932ef) 
-- [NodeJS](https://gist.github.com/xafxafxaf/3f61ee88399157417c35b4a291e6ca6b)
-- [Golang](https://gist.github.com/xafxafxaf/a58c0f3b19c059e26ca8b8078932323d)
