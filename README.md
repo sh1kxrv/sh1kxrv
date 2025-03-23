@@ -14,8 +14,8 @@ I'm a FullStack Web developer focused on building modern solutions and constantl
   *Tech:* Golang, Fiber, MongoDB  
   [Repo](https://github.com/sh1kxrv/bite-review-backend)
 
-- **🍂 RustyTerra:** Code obfuscation in WASM modules (AntiTamper-like).  
-  *Tech:* Rust, WASM, web-sys, js-sys, wasm-pack *(in progress)*  
+- **🍂 AntiTamperJS:** Code obfuscation in WASM modules (AntiTamper-like).  
+  *Tech:* TypeScript, SWC, TinyGo (VM) *(in progress)*  
   [Repo](https://github.com/sh1kxrv/rxstyterrv)
 
 - **🌱 GetGardenIO:** Plant monitoring system using ESP32 sensors.  
