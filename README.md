@@ -22,5 +22,8 @@ I'm a FullStack Web developer focused on building modern solutions and constantl
   *Tech:* Golang, MongoDB, Fiber  
   *(Public code coming soon)*
 
+- **SKLAD:** Node.js Package Manager writen on Golang (23.06)
+    *(Public code coming soon)*
+
 
 <p align="center"><img width="160" src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
