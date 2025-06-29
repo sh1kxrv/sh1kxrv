@@ -4,7 +4,7 @@ I'm a FullStack Web developer focused on building modern solutions and constantl
 
 ## Skills & Tools
 - 🔤 **Languages**:  JavaScript, TypeScript, Node.js; currently learning Go and Rust.
-- 🛠️ **Frameworks/Libraries**: NestJS, TypeORM, VueJS, NuxtJS; exploring Fiber, Actix, and WebAssembly (Rust, WASM, web-sys, js-sys, wasm-pack).
+- 🛠️ **Frameworks/Libraries**: Golang (Backend - Fiber), NestJS, TypeORM (MikroORM), VueJS, NuxtJS; exploring Actix, and WebAssembly (Rust, WASM, web-sys, js-sys, wasm-pack).
 - 🗄️ **Databases & Caching**: PostgreSQL, MongoDB, Redis.
 - ⚙️ **DevOps**: Docker, Docker Compose, Nginx, Cloudflare.
 - 💻 **OS & Editors**: VS Code on MacOS, Windows, Linux.
