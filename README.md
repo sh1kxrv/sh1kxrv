@@ -25,5 +25,7 @@ I'm a FullStack Web developer focused on building modern solutions and constantl
 - **SKLAD:** Node.js Package Manager writen on Golang (23.06)
     *(Public code coming soon)*
 
+## Modding
+- [Songs Of Conquest | QoL Mod](https://github.com/sh1kxrv/Shikaru.SOCQoL)
 
 <p align="center"><img width="160" src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
