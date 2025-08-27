@@ -13,7 +13,7 @@
 - 🗄️ **Database & Cache**: PostgreSQL, MongoDB, Redis.
 - ⚙️ **DevOps**: Docker, Docker Compose, Nginx, Cloudflare, Gitlab Workflow, Github Workflow.
 - 💻 **OS & Editors**: VS Code / Zed on MacOS, Windows, Linux.
-- **LLMs**: OpenAI, Anthropic, Cohere, HuggingFace.
+- **LLMs**: OpenAI, Anthropic, HuggingFace.
 
 ## Пет-проекты
 - **[🍴 BiteReview](https://github.com/sh1kxrv/bite-review-backend):** REST-API отзывов о ресторане
