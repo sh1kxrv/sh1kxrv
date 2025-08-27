@@ -1,34 +1,34 @@
-# Hi 👋
+# Привет! 👋
 
-I'm a FullStack Web developer focused on building modern solutions and constantly expanding my skills.
+Я Fullstack-разработчик, активно разрабатываю веб-приложения и сервисы на TypeScript, JavaScript, Vue.js, React, Node.js, Go, и других языках/технологиях.
 
-## Skills & Tools
-- 🔤 **Languages**:  JavaScript, TypeScript, Node.js; currently learning Go and Rust.
-- 🛠️ **Frameworks/Libraries**: Golang (Backend - Fiber), NestJS, TypeORM (MikroORM), VueJS, NuxtJS; exploring Actix, and WebAssembly (Rust, WASM, web-sys, js-sys, wasm-pack).
-- 🗄️ **Databases & Caching**: PostgreSQL, MongoDB, Redis.
-- ⚙️ **DevOps**: Docker, Docker Compose, Nginx, Cloudflare.
-- 💻 **OS & Editors**: VS Code on MacOS, Windows, Linux.
+При написании Frontend-приложений использую TypeScript & Vue.js + TailwindCSS для бандлинга использую Vite, также в комплексных решениях использую **[Свой шаблон для монорепозитория](https://github.com/sh1kxrv/vue-monorepo-template)**
 
-## Pet Projects
-- **🍴 BiteReview:** A platform for restaurant reviews.  
-  *Tech:* Golang, Fiber, MongoDB  
-  [Repo](https://github.com/sh1kxrv/bite-review-backend)
+**Grade: Middle+**
 
-- **🍂 AntiTamperJS:** Code obfuscation in WASM modules (AntiTamper-like).  
-  *Tech:* TypeScript, SWC, TinyGo (VM) *(in progress)*  
-  [Repo](https://github.com/sh1kxrv/rxstyterrv)
+## Инструменты и технологии
+- 🔤 **Языки и платформы**: JavaScript, TypeScript, Node.js, Deno, Go (Go Workspace)
+- 🛠️ **Фреймворки и технологии**: Fiber, NestJS, TypeORM (MikroORM prefer), Vue.js, Nuxt.js, WASM (Rust, Go), Capacitor, Electron, Tauri, Tailwind, TMA, PWA, VKMA, TinyGO
+- 📦 **Библиотеки**: Axios, Lodash, Pinia, Vue-router, VueUse
+- 🗄️ **Database & Cache**: PostgreSQL, MongoDB, Redis.
+- ⚙️ **DevOps**: Docker, Docker Compose, Nginx, Cloudflare, Gitlab Workflow, Github Workflow.
+- 💻 **OS & Editors**: VS Code / Zed on MacOS, Windows, Linux.
+- **LLMs**: OpenAI, Anthropic, Cohere, HuggingFace.
 
-- **🌱 GetGardenIO:** Plant monitoring system using ESP32 sensors.  
-  *Tech:* Golang, MongoDB, Fiber  
-  *(Public code coming soon)*
+## Пет-проекты
+- **[🍴 BiteReview](https://github.com/sh1kxrv/bite-review-backend):** REST-API отзывов о ресторане
+  - *СТЭК:* Go, Fiber, MongoDB  
 
-- **SKLAD:** Node.js Package Manager writen on Golang (23.06)
-    *(Public code coming soon)*
+- **[🍂 AntiTamperJS](https://github.com/ExcerfiaLab/antitamperjs):** Обфускация JS-кода и его частичное упаковывание в WASM (AntiTamper-like)
+  - *СТЭК:* TypeScript, SWC, TinyGo (VM)  
+  - *(WIP)* Проект на этапе написания адаптации AST (c SWC) и подготовки кода к трансформации и трансляции в WASM VM
 
-## Modding
+- **[🌱 GetGardenIO](https://github.com/ExcerfiaLab/get-garden-io-backend):** REST-API для мониторинга состояния сада и растений
+  - *СТЭК:* Go, MongoDB, Fiber
+
+### Моды
 - [Songs Of Conquest | QoL Mod](https://github.com/sh1kxrv/Shikaru.SOCQoL)
 
-<p align="center"><img width="160" src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-## Contacts
+## Контакты
 - [Telegram](https://t.me/skvrxv)
