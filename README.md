@@ -29,3 +29,6 @@ I'm a FullStack Web developer focused on building modern solutions and constantl
 - [Songs Of Conquest | QoL Mod](https://github.com/sh1kxrv/Shikaru.SOCQoL)
 
 <p align="center"><img width="160" src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
+## Contacts
+- [Telegram](https://t.me/whoamiunxsns)
