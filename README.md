@@ -9,7 +9,7 @@
 ## Инструменты и технологии
 - 🔤 **Языки и платформы**: JavaScript, TypeScript, Node.js, Deno, Go (Go Workspace)
 - 🛠️ **Фреймворки и технологии**: Fiber, NestJS, TypeORM (MikroORM prefer), Vue.js, Nuxt.js, WASM (Rust, Go), Capacitor, Electron, Tauri, Tailwind, TMA, PWA, VKMA, TinyGO, Web3
-- 📦 **Библиотеки**: Axios, Lodash, Pinia, Vue-router, VueUse
+- 📦 **Библиотеки**: Axios, Lodash, Pinia, Vue-router, VueUse Tanstack Query
 - 🗄️ **Database & Cache**: PostgreSQL, MongoDB, Redis.
 - ⚙️ **DevOps**: Docker, Docker Compose, Nginx, Cloudflare, Gitlab Workflow, Github Workflow.
 - 💻 **OS & Editors**: VS Code / Zed on MacOS, Windows, Linux.
