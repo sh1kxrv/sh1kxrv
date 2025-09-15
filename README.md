@@ -1,4 +1,3 @@
-[![Images](https://skillicons.dev/icons?i=js,html,css,nodejs,deno,vue,nuxtjs,bun,pnpm,react,redux,svelte,pinia,vite,vitest,tailwind,wasm,rust,actix,golang,nestjs,electron,tauri,postgres,mongo,redis,docker,nginx,cloudflare,git,github,gitlab,vscode)](#)
 # Привет! 👋
 
 Я Fullstack-разработчик, активно разрабатываю веб-приложения и сервисы на TypeScript, JavaScript, Vue.js, React, Node.js, Go, и других языках/технологиях.
@@ -16,6 +15,8 @@
 - 💻 **OS & Editors**: VS Code / Zed on MacOS, Windows, Linux.
 - **LLMs**: OpenAI, Anthropic, HuggingFace.
 - 📱 **Прочее**: Figma, Git.
+
+[![Images](https://skillicons.dev/icons?i=js,html,css,nodejs,deno,vue,nuxtjs,bun,pnpm,react,redux,svelte,pinia,vite,vitest,tailwind,wasm,rust,actix,golang,nestjs,electron,tauri,postgres,mongo,redis,docker,nginx,cloudflare,git,github,gitlab,vscode)](#)
 
 ## Пет-проекты
 - **Псы на мясе**: Магазин натурального корма для животных (CRM + ERP)
