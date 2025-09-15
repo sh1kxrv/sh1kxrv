@@ -1,3 +1,4 @@
+[![Images](https://skillicons.dev/icons?i=js,html,css,nodejs,deno,nuxtjs,vue,pinia,tailwind,wasm,rust,golang,nestjs,electron,tauri,postgres,mongo,redis,docker,nginx,cloudflare,git,github,gitlab,vscode)](#)
 # Привет! 👋
 
 Я Fullstack-разработчик, активно разрабатываю веб-приложения и сервисы на TypeScript, JavaScript, Vue.js, React, Node.js, Go, и других языках/технологиях.
