@@ -1,3 +1,4 @@
+**[Eng version](https://github.com/sh1kxrv/sh1kxrv/blob/main/README.en.md)**
 # Привет! 👋
 
 Я Fullstack-разработчик, активно разрабатываю веб-приложения и сервисы на TypeScript, JavaScript, Vue.js, React, Node.js, Go, и других языках/технологиях.
