@@ -15,7 +15,8 @@ In more complex solutions, I use my **[custom monorepo template](https://github.
 - **DevOps**: Docker, Docker Compose, Nginx, Cloudflare, GitLab Workflow, GitHub Workflow  
 - **OS & Editors**: VS Code / Zed on macOS, Windows, Linux  
 - **LLMs**: OpenAI, Anthropic, HuggingFace  
-- **Other**: Figma, Git  
+- **Other**: Figma, Git
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,deno,vue,nuxtjs,bun,pnpm,react,redux,svelte,pinia,vite,vitest,tailwind,wasm,rust,actix,golang,nestjs,electron,tauri,postgres,mongo,redis,docker,nginx,cloudflare,git,github,gitlab,vscode&perline=11"/>
 
 ## Pet Projects
 
