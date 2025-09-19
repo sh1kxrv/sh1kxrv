@@ -1,4 +1,4 @@
-# Hi there!  
+# Hi! 👋
 I am a Fullstack developer, actively building web applications and services using TypeScript, JavaScript, Vue.js, React, Node.js, Go, and other languages/technologies.  
 
 For frontend applications, I use TypeScript & Vue.js + TailwindCSS. For bundling, I use Vite.  
